@@ -1,0 +1,27 @@
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\09-12-2020-Calculadora-Libreria\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.pdb
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.deps.json
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\bin\Debug\netcoreapp3.1\Matematica.negocio.pdb
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Arreglar\09-12-2020-Calculadora-Libreria-UnitTest\Matematica\Matematica.negocio\obj\Debug\netcoreapp3.1\Matematica.negocio.pdb

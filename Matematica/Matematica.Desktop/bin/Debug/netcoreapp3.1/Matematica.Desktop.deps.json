@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Matematica.Desktop/1.0.0": {
+        "runtime": {
+          "Matematica.Desktop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Matematica.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
